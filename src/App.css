@@ -1,0 +1,29 @@
+
+.planet {
+  width: 272px;
+  height: 200px;
+  background: #FFFFFF;
+box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+border-radius: 16px;
+}
+.nav {
+  width: 200px;
+}
+.text-dark {
+  color: #121C33 !important;
+}
+
+.character  {
+  width: 272px !important;
+  height: 200px;
+  background: #FFFFFF;
+box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+border-radius: 16px !important;
+}
+.char-img {
+  width: 100px;
+  height: 120px;
+  border-top-left-radius: 16px !important;
+  border-top-right-radius: 16px !important;
+
+}

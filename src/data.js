@@ -18,6 +18,8 @@ import char7 from "./images/characters/character-6.png"
 import char2 from "./images/characters/character-10.png"
 
 
+
+
 export const planets = [
     {
         "name" : "Planet Alpha",
